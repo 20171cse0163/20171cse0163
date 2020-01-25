@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 title="I'm a header">The title Attribute</h2>
+
+<p title="I'm a tooltip">
+hi im charu .i love to dance
+</p>
+
+</body>
+</html>
+
