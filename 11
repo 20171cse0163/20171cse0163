@@ -1,0 +1,110 @@
+<html>
+<head><center>Time table</center></head>
+<hr>
+<title>Timetable</title>
+<body>
+<div>
+<table>
+<thead>
+<tr border="none" cell spacing="10">
+<td>semester:VI<td>
+<td>LECTURE HALL:kg-01</td>
+<td>COORDINATOR:DR.LENO LOVERSUM</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>section:6-cse-1<td>
+<td>STRENGTH:57</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td>section:6-cse-1<td>
+<td>STRENGTH:57</td>
+</tr>
+</tfoot>
+
+<CAPTION ALIGN="BOTTOM">time table-6-cse3</CAPTION>
+</table>
+<table  width="100%" border="2">
+<tr style="background-color:blue" border="2"  cell spacing="10">
+<td>hour<td>
+<td>1<td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>time\day<td>
+<td>9:00-10:00<td>
+<td>10:05-11:00</td>
+<td>11:05-11:15</td>
+<td>11:15-12:00</td>
+<td>12:10-1:00</td>
+<td>1:00-2:00</td>
+<td>2:00-3:00</td>
+<td>3:00-4:00</td>
+</tr>
+<tr>
+<td>monday<td>
+<td>digt ent<td>
+<td>gtc</td>
+<td  rowspan=8 style="background-color:brown">tea break</td>
+<td>de/ml/cs</td>
+<td rowspan=3 style="background-color:brown">lunch break</td>
+<td>it</td>
+<td colspan=2>IT-LAB</td>
+</tr>
+<tr>
+<td>tuesday<td>
+<td colspan=2>NP-LAB<td>
+<td>digt-ent</td>
+<td>gtc</td>
+<td  colspan=2>At</td>
+
+
+</tr>
+<tr>
+<td>wednesday<td>
+<td colspan=2>AT<td>
+<td>de/me/cs</td>
+<td>ooad</td>
+<td>digt-entp</td>
+<td style="background-color:yellow">libarary</td>
+
+</tr>
+<tr>
+<td>thursday<td>
+<td>ooad<td>
+<td>gtc</td>
+<td colspan=2>sst</td>
+<td style="background-color:brown">lunch </td>
+<td colspan=2>np-lab</td>
+</tr>
+<tr>
+<td>friday<td>
+<td colspan=2>it-lab<td>
+<td>de/me/cs</td>
+<td style="background-color:brown">lunch </td>
+<td>gtc</td>
+<td>ooad</td>
+<td style="background-color:yellow">cch</td>
+</tr>
+
+<tr>
+<td>SATURDAY<td>
+<td style="background-color:yellow" colspan=3>LEARNING <td>
+<td style="background-color:yellow" colspan=2> LEARNING  <td>
+<td></td>
+<td></td>
+
+</tr>
+
+</table>
+</html>
+
